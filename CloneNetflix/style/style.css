@@ -70,6 +70,9 @@ main .description-movie{
 main .title-movie{
     font-size: 40px;
 }
+.box-movie:hover{
+    transform:scale(1);
+}
 
 main .main-btn{
     
@@ -93,6 +96,8 @@ main .main-btn{
     height: 100%;
     width: 100%;
     display: block;
+    transition: all ease 0.3s;
+    transform:scale(0.9);
 }
 .carousel-movies{
     padding: 20px;
