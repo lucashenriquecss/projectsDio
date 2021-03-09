@@ -74,9 +74,7 @@ main .title-movie{
     transform:scale(1);
 }
 
-main .main-btn{
-    
-}
+
 
 .main-button{
     background-color: rgba(0,0,0,.50);
@@ -103,6 +101,4 @@ main .main-btn{
     padding: 20px;
 }
 /*footer and components*/
-footer{
 
-}
